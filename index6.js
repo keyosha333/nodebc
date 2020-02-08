@@ -1,0 +1,10 @@
+var firstName = 'Keyosha';
+var lastName = 'Waugh';
+var age = 29;
+var address = '33 16th Ave E';
+var dateOfBirth = '15/04/1990';
+console.log('address: ', address);
+console.log('lastName: ', lastName);
+console.log('dateOfBirth', dateOfBirth);
+console.log('firstName: ', firstName);
+console.log('age: ', age);

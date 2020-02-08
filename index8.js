@@ -1,0 +1,10 @@
+const firstName = 'Keyosha';
+const lastName = 'Waugh';
+const age = 29;
+const address = '33 16th Ave E';
+const dateOfBirth = '15/04/1990';
+console.log('address: ', address);
+console.log('lastName: ', lastName);
+console.log('dateOfBirth', dateOfBirth);
+console.log('firstName: ', firstName);
+console.log('age: ', age);

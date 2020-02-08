@@ -1,0 +1,10 @@
+var firstName;
+var lastName;
+var Age;
+var Address;
+var dateOfBirth;
+dateOfBirth = '15/04/1990';
+firstName = 'Keyosha';
+lastName = 'Waugh';
+Age = 29;
+Address = '333 16th Ave E';
